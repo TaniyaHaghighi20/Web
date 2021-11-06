@@ -1,0 +1,20 @@
+.form{
+    background-color: rgba(46, 139, 86, 0.856);
+    border-radius: 20px;
+}
+
+form{
+    margin: 30px;
+    padding: 40px;
+}
+#signUp{
+    background-color: rgb(39, 121, 75);
+    color: white;
+    margin: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#signUp:hover{
+    background-color: rgba(39, 121, 75, 0.61);;
+}
